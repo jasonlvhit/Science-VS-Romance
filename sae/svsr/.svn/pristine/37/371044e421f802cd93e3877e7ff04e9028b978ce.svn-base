@@ -1,0 +1,8 @@
+name: svsr
+version: 1
+
+libraries:
+- name: flask
+  version: "0.9"
+- name: flask-sqlalchemy
+  version: "0.15"

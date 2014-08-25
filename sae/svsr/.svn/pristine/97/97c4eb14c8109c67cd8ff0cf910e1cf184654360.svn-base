@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+<title>Science VS. Romance | 辣椒面儿</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="author" content="Jason Lyu, Jason Lv, 辣椒面儿" />
+
+<meta name="keywords" content="Science, Romance , Programming, Blog, Music, tutorials" />
+
+<meta name="description" content="This is JasonLyu's personal web site for programming and misc." />
+
+<meta name="copyright" content="Copyright 2005-2014 Song Ho Ahn, All rights reserved" />
+
+<meta name="language" content="en" />
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://svsr.sinaapp.com/static/main/css/screen.css') }}" />
+</head>
+<body style="text-align:center;">
+<div id="centerblock">
+<div id="welcomeblock" style="left:0px; top:0px;">
+<h4 style="border-style:none; margin:0 0 1em 0">Science VS. Romance</h4>
+<p style="font-size:90%; color:#333; background-color:white">
+This is Jason Lyu's personal web site for programming and daily life.<br><br>
+
+我是辣椒面儿，这是我的个人网站。
+
+</p>
+
+<p style="font-size:80%; color:#666; background-color:white">
+
+<br />
+
+&copy; 2013-2014, <a href="mailto:jasonlvhit@gmail.com" style="color:#666; background-color:white; text-decoration:none">辣椒面儿 / Jason Lyu. Design by Song Ho Ahn</a>
+
+</p>
+
+</div>
+
+
+
+
+
+<div class="squarehome" style="left:440px; top:0px;">
+
+<a href="#"><span>辣椒面儿</span></a>
+
+</div>
+
+<div class = "square" style = "left:0px; top:220px;">
+<a href="archive"><span>Archive</span></a>
+</div>
+
+<div class="square" style="left:220px; top:220px;">
+
+<a href=""><span>Programming</span></a>
+
+</div>
+
+
+
+<div class="square" style="left:110px; top:220px;">
+
+<a href="tags"><span>Tag</span></a>
+
+</div>
+
+
+
+
+
+<div class="square" style="left:330px; top:220px;">
+
+<a href="http://www.douban.com/people/Jasonlvpy"><span>豆瓣</span></a>
+
+</div>
+
+
+
+
+
+<div class="square" style="left:550px; top:220px;">
+
+<a href="http://github.com/jasonlvhit"><span>Github</span></a>
+
+</div>
+
+
+
+<div class="square" style="left:440px; top:330px;">
+
+<a href="http://jasonlyuhit.github.io"><span>我的老文章集合</span></a>
+
+</div>
+
+
+
+
+
+<div id="quoteblock" style="left:0px; top:330px; line-height:0.9em">
+
+<span style="font-size:75%; color:#666; background-color:white">
+
+<i></i>
+
+<br />
+
+<br />
+
+</span>
+
+<span style="font-size:75%; color:#666; background-color:white">
+
+</span>
+
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+</body>
+
+</html>
