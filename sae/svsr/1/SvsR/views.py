@@ -15,6 +15,8 @@ def index():
 @app.route('/archive')
 def archive():
 	p = Post.query.all()
+	p.sort()	
+	print(p)
 	return render_template('post_list.html', items = p)
 
 def tagFilter(tags):
@@ -55,14 +57,10 @@ def music():
 @app.route('/tags')
 def tags():
 	tags = Tag.query.all()
+	tags.sort()
 	return render_template("tag_list.html", tags = tags)
 
 @app.route('/tag/<int:tag_id>')
 def tag(tag_id):
 	p = Tag.query.get(tag_id).posts
 	return render_template("post_list.html", items = p)
-
-@app.route('/init_db')
-def init_db():
-	db.create_all()
-	return 1

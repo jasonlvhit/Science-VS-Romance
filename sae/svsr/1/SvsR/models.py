@@ -17,9 +17,12 @@ class Post(db.Model):
 		self.title = title
 		self.content = content
 		self.pub_time = pub_time
+	
+	def __le__(self, other):
+		return self.pub_time > other.pub_time
 
 	def __repr__(self):
-		return '<User %r>' % self.title
+		return '<Post %r>' % self.title
 
 class Tag(db.Model):
 	__tablename__ = 'tag'
@@ -30,6 +33,9 @@ class Tag(db.Model):
 
 	def __init__(self, tag_name):
 		self.tag_name = tag_name
+	
+	def __le__(self, other):
+		return len(self.posts) > len(other.posts)
 
 	def __repr__(self):
 		return '<Tag %r>' % self.tag_name
